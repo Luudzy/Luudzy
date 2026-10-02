@@ -131,14 +131,6 @@ Tenho interesse principalmente em:
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luudzy&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
 ---
 
 ## 🧪 Algumas coisas que gosto de mexer
